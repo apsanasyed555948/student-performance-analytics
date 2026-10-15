@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python_Marks,AI_Marks,Data_Analysis_Marks,Attendance_Percent
+S001,Aarav Kumar,CSE,86,91,78,95
+S002,Diya Sharma,CSE,72,81,88,90
+S003,Ishaan Reddy,ECE,65,70,74,82
+S004,Meera Patel,ECE,93,89,96,98
+S005,Kabir Singh,IT,58,62,55,76
+S006,Ananya Rao,IT,81,85,90,92
+S007,Vivaan Das,CSE,44,51,48,68
+S008,Sara Khan,EEE,77,73,80,88
+S009,Arjun Nair,EEE,91,94,89,97
+S010,Ira Joshi,IT,69,75,71,84
+S011,Rehan Ali,CSE,38,46,42,60
+S012,Kavya Menon,ECE,88,92,85,96
+S013,Aditya Verma,IT,74,68,79,79
+S014,Tara Iyer,EEE,96,97,94,99
+S015,Neil Thomas,CSE,53,59,61,72
+S016,Pooja Gupta,ECE,82,78,87,91
+S017,Rohan Babu,EEE,61,64,58,75
+S018,Zoya Ahmed,IT,90,86,92,94
+S019,Manav Shah,CSE,47,39,52,65
+S020,Nisha Paul,ECE,79,83,76,89
